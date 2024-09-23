@@ -1,4 +1,4 @@
-for the data obtained from the car and UAV experiments a raw data file was uploaded here, for some of the column a short explanation is given
+for the data obtained from the car and UAV experiments a raw data file was uploaded here, for some of the columns a short explanation is given
 Filtered_mass_balance; 0 indicates no filtering applied to data set, 1 is filtered out.
 sd_ ; standard deviation taken from instrument
 DateTime, DT, TIME, DATE; different ways of time indication
